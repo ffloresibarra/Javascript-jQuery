@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-autocompletejson",
+      "appliesTo": "3-widgets-ii/autocompletejson.ashx",
+      "type": "launch"
+    }
+  ]
+}
