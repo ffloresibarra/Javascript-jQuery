@@ -1,6 +1,6 @@
 
-import { Car } from './models/car.js';
+import { a } from './car.js';
 
-let car = new Car(123);
-console.log( car.id );  
+let c = new a(123);
+console.log( c.b );  
  
